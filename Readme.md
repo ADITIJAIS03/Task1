@@ -16,15 +16,15 @@ Customer Personality Analysis - Kaggle
 - Python
 - Pandas
 
-## Run the Script
-```bash
-python Task1.py
-
 ## Libraries
 - pandas
 - numpy
 - matplotlib
 - seaborn
 
+## Run the Script
 ```bash
+
 pip install pandas numpy matplotlib seaborn
+python Task1.py
+
