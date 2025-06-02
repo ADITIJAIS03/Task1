@@ -3,6 +3,12 @@
 ## Dataset Used
 Customer Personality Analysis - Kaggle
 
+## Input File
+marketing_campaign.csv
+
+## Output File
+cleaned_marketing_campaign.csv
+
 ## Changes Made:
 - Removed missing values using `dropna()`.
 - Removed duplicate rows using `drop_duplicates()`.
